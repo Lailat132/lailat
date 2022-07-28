@@ -3,6 +3,7 @@ public class gugu {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+		System.out.println("HELlo java 123123123");
 		System.out.println("±¸±¸´Ü ");
 		
 		for(int i=2; i<=9; i++) {
